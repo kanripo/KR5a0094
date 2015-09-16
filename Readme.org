@@ -1,15 +1,3 @@
-#+TITLE: 太上洞玄靈寶無量度人上品經法 / CK-KZ
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-28 23:37:06.780861
-* 版本
- |     CK-KZ|【重刊道藏輯要】|
- |       HFL|【正統道藏・涵芬樓版】|
- |      YP-C|【原版道藏輯要】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5a0094_000.txt][太上洞玄靈寶無量度人上品經法 0]]
- - [[file:KR5a0094_001.txt][太上洞玄靈寶無量度人上品經法 1]]
- - [[file:KR5a0094_002.txt][太上洞玄靈寶無量度人上品經法 2]]
- - [[file:KR5a0094_003.txt][太上洞玄靈寶無量度人上品經法 3]]
- - [[file:KR5a0094_004.txt][太上洞玄靈寶無量度人上品經法 4]]
- - [[file:KR5a0094_005.txt][太上洞玄靈寶無量度人上品經法 5]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.

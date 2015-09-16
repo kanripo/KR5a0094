@@ -1,8 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 元始無量度人上品經法
-#+DATE: 2015-08-28 23:37:06
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
